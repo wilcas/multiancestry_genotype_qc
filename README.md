@@ -1,1 +1,1 @@
-# multiancestry_genotype_qc
+# Genotyping QC for Cohorts with Samples from Multiple Ancestries
